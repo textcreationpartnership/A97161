@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning the Engagement: or, The northern subscribers plea opposed to their dissenting neighbors importune animosities against engaging to be true and faithful, &amp;c. Tending to beget a calm compliance in all the consciencious lovers of truth and peace. / Laid together by N.W. a friend to the Common-wealth.</title>
+            <author>N. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97161</idno>
+            <idno type="STC">Wing W85</idno>
+            <idno type="STC">Thomason E590_8</idno>
+            <idno type="STC">ESTC R204160</idno>
+            <idno type="EEBO-CITATION">99863845</idno>
+            <idno type="PROQUEST">99863845</idno>
+            <idno type="VID">165520</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165520)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E590[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning the Engagement: or, The northern subscribers plea opposed to their dissenting neighbors importune animosities against engaging to be true and faithful, &amp;c. Tending to beget a calm compliance in all the consciencious lovers of truth and peace. / Laid together by N.W. a friend to the Common-wealth.</title>
+                  <author>N. W.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Tyton, dwelling at the Three Daggers in Fleetstreet, neer the Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotations on Thomason copy: "Jan: 29. 1649", the 50 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165520:1" rendition="simple:additions"/>
+            <p>A DISCOURSE CONCERNING The Engagement: OR, The Northern Subſcribers Plea oppoſed to their diſſenting Neighbors importune Animo<g ref="char:EOLhyphen"/>ſities againſt Engaging to be true and faithful, <hi>&amp;c.</hi>
+            </p>
+            <p>Tending to beget a calm Compliance in all the Conſciencious Lovers of Truth and Peace.</p>
+            <p>Laid together by <hi>N. W.</hi> a friend to the COMMON-WEALTH.</p>
+            <q>
+               <p>Deceit is in the heart of them that imagine evil; but to the Counſellors of Peace, is joy, <bibl>
+                     <hi>Prov. 12.20.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>Where envying and ſtrife is, there is confuſion, and every evil work, <bibl>
+                     <hi>Jam. 3.16.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <bibl>
+                     <hi>Nazian: Orat. 12.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Tyton,</hi> dwelling at the Three Daggers in Fleetſtreet, neer the Temple. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:165520:2"/>
+            <pb n="3" facs="tcp:165520:2"/>
+            <head>A DISCOURSE CONCERNING The Engagement: OR, The Northern Subſcribers Plea, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the glorious God,<note place="margin">Job 34.21.</note> whoſe eyes are upon the hearts and ways of the ſons of men, (looking through their purpoſes) ſtrikes off the Chariot wheels of their beloved intereſts, as incompatible with his grand deſign in the World: When he diſcomfits their hopes, and caſts a damp upon their expectations, 'tis uſual for them to ſit down in mo<g ref="char:EOLhyphen"/>roſity and peeviſhneſs of ſpirit,<note place="margin">1 Kings 19.4. Jonas 4.8.</note> and think they do well to be angry, even unto death. This unhappy temper hath robbed us of the agency and uſefulneſs of many hopeful inſtruments, in theſe days of great temptation, when a man hath been more precious then fine Gold, yea, a man then the golden wedg of Ophir.<note place="margin">Iſaiah 13.12.</note> But as this frame of ſpirit and demeanor, is always very importune, and misbecoming thoſe who are called out to the ſervice of Providence, ſo eſpecially in times of ſad diſcompoſure, ſuch as ours at preſent are. Now the ribs of <hi>Jacob</hi> hang looſely, and daſh one againſt another, and <hi>Englands</hi> children are
+<pb n="4" facs="tcp:165520:3"/>
+even ſtragling as Hinds that finde no paſture. Now our breach is great, like the Sea, and gapes ſtill, widening for our enemies; thoſe that get be<g ref="char:EOLhyphen"/>hinde the hedg,<note place="margin">Ezek. 22.30.</note> are not where God looks for them. He that is ſo fond of his gourd, that though deſtruction upon deſtruction be cried, and the whole Land ſpoiled,<note place="margin">Lam 4 3:</note> yet will by no means let it go; is cruel, like the Oſtrienes in the Wilderneſs, and worſe then the Sea-Monſters, which draw out the breſt,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chry<g ref="char:EOLhyphen"/>ſoſt.</hi> Iſai. 59.16. and 51.18. Micah 7.4.</note> and give ſuck to their young ones. Chriſtians, as they are the greateſt lovers of God, ſo they are full of bowels, beyond all other men, and tender of their mutual welfare. Truly, the Lord may very well wonder, ſeeing ſo few interceſſors, ſo few that come with balm in their hands, and ligatures for our wounds, yea, that ſo many of the beſt (in account) amongſt us, are rather as bryars, and of the moſt upright, ſharper then a thorn hedg, raking in our wounds like enemies, and with<g ref="char:EOLhyphen"/>out pity widening our breaches, although the rent be even at the caul of the heart.</p>
+            <p>
+               <note place="margin">Rom. 2.1.</note>That we may not therefore become inexcuſable, doing the ſame things, or render our ſelves altogether unſerviceable in our age and places, though we can do little for the help of the Lord, till it ſhall ſeem good unto him to lay us aſide, (although our intereſts be not ſuited more then many other mens, who fling away in diſcontent, nor our ſpirits ſatisfied, but in waiting the good pleaſure of the Lord,) we judg it our duty, to ſtand up with thoſe few heads and ſtayes of our Tribes, kept together by Gods providence in this ſtrait of time for our ſupport, and to engage with them for the ſtrengthening of their hands, till the Lord hath accom<g ref="char:EOLhyphen"/>pliſhed his great work,<note place="margin">Iſaiah 51.16. Pſal. 94.13, 15.</note> planting the Heavens, and laying the foundations of the Earth amongſt us; till he give us reſt from the days of adverſity, and ſtill the enemy, and the avenger; till judgment return unto righte<g ref="char:EOLhyphen"/>ouſneſs, and all the upright in heart follow it; till he throughly plead our cauſe, and roll away our reproach; till he ordain peace in our borders, making our walls ſalvation,<note place="margin">Iſaiah 60.18.</note> and our gates praiſe.</p>
+            <p>And that in ſo doing, we may acquit our ſelves from the imputations, both of time-ſerving, and blinde-obedience, (nothing being good, but what is rationally good) we ſhall,</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Lay down, and clear thoſe conſciencious grounds which have led us on to this duty, and,</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Make anſwer, <hi>ex abundanti,</hi> to thoſe ſerious ſcruples which we perceive to ſtick upon many men, as obſtructors of their ready conjuncti<g ref="char:EOLhyphen"/>on with us in this buſineſs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> As to the firſt of theſe, it hath continually faln upon our thoughts, whether any men (living under ſuch diſpenſations of providence) may
+<pb n="5" facs="tcp:165520:3"/>
+diſoblige themſelves from acknowledging, at leaſt in ſome ſort, thoſe powers in being over them (whether lawful or pretended) and not draw upon their heads the guilt of all that diſmal confuſion which would (like the breaking out of water) unavoidably follow the total<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſ.</note> diſſolution of Government amongſt them? eſpecially in a Nation wherein the con<g ref="char:EOLhyphen"/>teſt about Prerogative has been the ſharpeſt Plea that ever it was ac<g ref="char:EOLhyphen"/>qainted with, and in which the fiery ſpirit of abſolute domination hath found more Abettors then could be imagined amongſt a people that hated not the name and thing of liberty and property. And though ſome men happily, whoſe judgments and activity have been againſt us in this grand quarrel, may conceive themſelves exempt from any ſuch charge, yet whether we who have fought againſt tyranny ſhould not be acceſſory to Anarchy and deeply concerned in its woful conſequents, ſhould we diſown that Authority over us (though not ſo full and formal as we might wiſh it were) we have ever been held in great doubt? we never coveted to have the enemies thanks for doing his work; yea, we have been very fearful leſt the Laws ſhould cry out againſt us as lawleſs, and every ruined family ſhould charge its undoing upon our ſcores. If men be Wolves one to another under the ſtraighteſt reſtrictions of Magiſtra<g ref="char:EOLhyphen"/>cy, what will they be when left to their own lawes? the beſt lot we our ſelves can look for in ſuch a cauſe, is but the Gyants curteſie, to be devour<g ref="char:EOLhyphen"/>ed laſt; nay conſidering that ſpirit in moſt people luſting to revenge, we may look to be devoured firſt.</p>
+            <p>As to thoſe pretenſions which other men make to power and rule over us, we found them but ſhadows, or at beſt but dilute and waſhie ſupports to a ſinking Common-wealth; we can expect no <hi>operation</hi> of that which is not in <hi>being,</hi> let the title or right to power be never ſo high<g ref="char:EOLhyphen"/>ly pretended; neither were we ever throughly perſwaded that Govern<g ref="char:EOLhyphen"/>ment was any mans<note n="*" place="margin">
+                  <hi>See the Te<g ref="char:EOLhyphen"/>nure of Kings,</hi> &amp;c. I. M. Princeps è Se<g ref="char:EOLhyphen"/>natu oritu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Se<g ref="char:EOLhyphen"/>natus è vobis. O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho. in Tac. ad praetorianos<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> freehold, or that many men might not ſerve provi<g ref="char:EOLhyphen"/>dence in the adminiſtration of right to a Nation, and the promoving its welfare as well as any one, were his blood of never ſo high a colour, or his Grandeur never ſo pompous and Majeſtick.</p>
+            <p>Hence we fell to a debate, whether we had not already, yea, whether <milestone type="tcpmilestone" unit="unspecified" n="2"/> moſt men had not <hi>interpretativè</hi> owned the Powers in Being? <hi>viz.</hi> by ſubmitting their caſes to tryal in that courſe of law which fetcheth its for<g ref="char:EOLhyphen"/>mality and original from them, and is diſpenſed by their ſubſtitutes and inferior Officers? and thoſe of us who are Lawyers, whether by pleading at the Bar and owning their Judges as proprietors of the Bench, we did not own thoſe who Commiſſioned them? yea, whether all of us in pay<g ref="char:EOLhyphen"/>ing them tribute, have not ſet our ſeal to their Authority, and its lawful<g ref="char:EOLhyphen"/>neſs?
+<pb n="6" facs="tcp:165520:4"/>
+if we have gone this mile with them, how ſhould we refuſe to go the other mile too, even to give them honor and fear, as well as tribute? <hi>Rom.</hi> 13.7. <hi>Render therefore to all their dues, tribute to whom tribute, cuſtome to whom cuſtome, fear to whom fear, and honor to whom honor be longeth;</hi> if nothing had belonged to them, we ſhould have given them-nothing; real acknowledgments always, in the ſenſe of wiſe men, over<g ref="char:EOLhyphen"/>weighing verbal diſownings.</p>
+            <p>Laſtly, thoſe of us who are Miniſters found our ſelves ſurprized, by our own prayers for them, as men poſſeſt of power, to give them homage; by our making requeſt to God that they might uſe their talents well, we found this included, that they had their talents from God; we have own<g ref="char:EOLhyphen"/>ed them in their declarations, days of thankſgiving and humiliation, and we think it but ſtraining at a gnat, if we ſhould refuſe to ſet our hands to engage with them, who have had our tongues, yea ſure, and our<note n="*" place="margin">Peccant qui d ſſidium cordis &amp; linguae faci<g ref="char:EOLhyphen"/>unt, &amp;c. Pic. Mirand Ep.</note> hearts likewiſe at their commands and diſpoſall as to ſuch duties.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Hence, reflecting upon our wayes, we fell to a more deliberate and ſtrict ſcrutiny, whether all this were well done and juſtifiable, yea or no? being ſolemnly put upon it at the inſtance of our own conſciences (that we might be both void of offence towards God, and towards men) and by the confident and ill-boding preſumptions of many knowing and conſi<g ref="char:EOLhyphen"/>derable perſons againſt the preſent Authority,<note place="margin">Act. 24.19.</note> decrying its lawfulneſs, and in their diſcourſes taking it as for granted, that no conſcientious man could own the Parliament as now conſtituted, or its power. We thought ſure their reaſons are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, very ponderous, which diſoblige them from that viſible Authority over us; but all that we could gather from them fell very much below our expectations, and being weighed in the ballance, proved far too light for what might be laid againſt it. Our con<g ref="char:EOLhyphen"/>ſciences ſuggeſting ready, and (as we thought) full anſwers to their moſt material and weighty alledgments, and finding our ſelves able to ſet reaſon againſt reaſon; yea, had it becomed us, confidence againſt confidence (meeting with perſwaſions to a complyance and cloſure with the Parliament, ſtronger then any perſwaſions to diſunion) we thought it not beſt to take up with <hi>vox populi,</hi> being an inſufficient warrant for any mans refuſal, to co-engage or fall in with the Authority, but diligent<g ref="char:EOLhyphen"/>ly to ſearch whether we ought to go forward or backward; and the more we enquired into the minde of God concerning us, the more we found this duty, for which we plead, cleared up to our conſciences. Now the principal Arguments offering themſelves to us for this purpoſe, and prevailing above us, were theſe.</p>
+            <p n="1">
+               <pb n="7" facs="tcp:165520:4"/>1. <hi>The Being of theſe preſent powers over us from God, which we found <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>1</label> thus made out unto us.</hi>
+            </p>
+            <p n="1">1. All conſtitutions have their making and marring, their ſtanding and falling from God: frames of Government indeed are reſolved by him into the peoples * will,<note place="margin">Deut. 17.14.</note> as the next and immediat cauſe of their ſpecification or formality, and what kinde of Government they will for their own good, the Lord ſets his Seal upon it, as owning and approving it; this is clear in that tranſlation of Government from the Judges in <hi>Iſrael,</hi> and the ſetting up of Kingly Power in the perſon of <hi>Saul,</hi> 1 <hi>Sam.</hi> 8.9, 10, 12. <hi>Chapters;</hi> But that here is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the hand of God in the VVills of men, in theſe caſes, appears from his appropriating ſuch changes to himſelf, both as to perſons, and things, <hi>Ezek,</hi> 21.27. <hi>Zachar.</hi> 11.10, 14. <hi>Hoſ.</hi> 13.11.<note place="margin">Ier. 18.4.</note> 
+               <hi>Act.</hi> 13.10, 21, 22. The Policies of Nations are ſome of Gods VVorks upon the wheeles, which he orders and frames as ſeemeth good to himſelf; man is the inſtrument and ſubject in all changes, but the being, or not being of them muſt be reſolved into Gods VVill, as the Supream and Primordial cauſe. He doth according to his VVill in the Army of Heaven, and among the Inhabitants of the Earth, and none can ſtay his hand, or ſay unto him, <hi>What doſt thou? Dan.</hi> 4.35.</p>
+            <p>
+               <hi>But here men put in with a full cry, We deſired not,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>or willed this change of Government, this new Frame or Modell ſuperinduced over us, nor yet can we content our ſelves with it.</hi>
+            </p>
+            <p>To this we Anſwer, ſome men deſired it, others did not; <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> in this caſe the pre<g ref="char:EOLhyphen"/>vailing, not the worſted, or overborn party may lay claim to the ſignature of Divine approbation, or at leaſt to the concurrence of Gods<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Clem. Alex. Admonit. ad Gentes.</note> abſolute Will, without which no purpoſes, and by which all purpoſes are brought to paſs and eſtabliſhed, <hi>Pſa.</hi> 33.11, 12. This is ſeen in <hi>Rehoboams</hi> rejection, 1 <hi>Kings</hi> 12.15.24. The Text tells us, that the cauſe and the thing was from God. Again, when the people were divided about the choice of a King, 1 <hi>Kings</hi> 16.21, 22. the prevailing party were owned in their choice, God never manifeſting any diſlike of it, nor ever reproving <hi>Omry</hi> or his Succeſſors for uſurpation. And if this hold good in the choice of a Go<g ref="char:EOLhyphen"/>vernor, why may it not in the choice of a Government? and then ſurely that is of God, which by his Providence is ſuperinduced over us, though its ſuperinduction be never ſo much ſtomack't by the ſurly wills of many, of moſt men.</p>
+            <p n="2">2. That place of Scripture, <hi>Rom.</hi> 13.1. (amongſt many others) is very full and pregnant to prove the Being of our preſent Powers from God,
+<pb n="8" facs="tcp:165520:5"/>
+Not only Magiſtracy in common is his Ordinance, as King and Soveraign of the whole Earth, but the ſpecifical Powers that<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> be, likewiſe are by the Ordination of God, as the firſt and chief cauſe of all Beings. The word here rendred, <hi>Ordained,</hi> we conceive to be of great force for the legiti<g ref="char:EOLhyphen"/>mating our powers, it being often uſed to ſignifie events and appoint<g ref="char:EOLhyphen"/>ments flowing from the eternal efficacious Decree of God, as <hi>Act.</hi> 13.48.22.10, <hi>&amp;c.</hi> in which God cannot be a Spectator onely, or a permitter, but muſt needs lay to his hand as a powerful VVorker, yea, in an eminent and ſignal manner too (this we ſhall evidence he hath done in our Caſe by and by) for if the permiſſion of God (which extends it ſelf to evil, ſin, or privative defects, be not without his<note n="a" place="margin">Circa quod<g ref="char:EOLhyphen"/>cunque eſt Dei permiſſio circa idem etiam eſt actualis voli<g ref="char:EOLhyphen"/>tio. <hi>Th. de Bradward.</hi>
+               </note> volition, then ſurely thoſe futuritions, or poſitive events determined by him, and welpleaſing to him, come not to paſs without his ſpecial efficiency; this Doctrine ſome of us have taken in from the Schools, and in whatever Series of events God manifeſts this his ſpecial concurrence or appearing, that cauſe he owns; hence it may be ſaid of our change, the thing is of God, and thoſe Powers in being over us ordained of him, yea, by his ſpecial appoint<g ref="char:EOLhyphen"/>ment, ſpeciall procurement, and we hope out of ſpecial grace and favor.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>But the Word,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſay ſome, ſignifie lawful powers, a power of right, contradiſtinguiſhed to</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a power of might.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To this we Anſwer, VVhat men mean by a power of Right, or how far they will extend it, we do not very well know; we conceive our pre<g ref="char:EOLhyphen"/>ſent Powers may fall within that compaſs; but as for the word, it ſignifies any power; the devil hath no lawful power to give, and yet this word is uſed for that power over the Kingdoms of the world which he offered un<g ref="char:EOLhyphen"/>to Chriſt, <hi>Luke</hi> 4.6. what ſhall we think of <hi>Pilates</hi> power to crucifie the Lord of Life? <hi>Joh.</hi> 19.10. Here the word is uſed again: was that a law<g ref="char:EOLhyphen"/>ful power? Secondly, we cannot eaſily underſtand how any powers ſhould take the denomination of lawful or unlawful, from their Form, Conſtitution, or Mould; for then onely ſome one frame of Government would be lawful (as it is in Goſpel Diſcipline) and all other unlawful; but rather from the efflux of peoples wils, into the Being of ſuch Powers over them, or from their agency in commanding things lawful or un<g ref="char:EOLhyphen"/>lawful under God. Thoſe that command unlawful things, in ſuch exor<g ref="char:EOLhyphen"/>bitances (ſwerving from the Rule of their Office) they retain no ſtamp of<note n="*" place="margin">Malus prin<g ref="char:EOLhyphen"/>ceps, non eſt princeps, quem<g ref="char:EOLhyphen"/>admodum ſpi<g ref="char:EOLhyphen"/>ritus impurus qui invaſit cor<g ref="char:EOLhyphen"/>pus hominis, non eſt animus. <hi>Eraſ.</hi>
+               </note> Authority or Power on them at all: For upon this account, we are diſobliged from conſciencious obedience in ſuch caſes, becauſe there men act as diſrob'd of Magiſtracy, God never giving any man Com<g ref="char:EOLhyphen"/>miſſion to do evil. He is the Miniſter of God to thee for good, ſaith the Apoſtle, <hi>Rom.</hi> 13.4. 1 <hi>Pet.</hi> 2.14.</p>
+            <p>
+               <pb n="9" facs="tcp:165520:5"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>Kingly power is by this Plea proved a lawful power, and a power ordained of God; why then was the King reſiſted, rejected, and that Government laid aſide?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To this we ſay, 1. That Kingly power with its juſt limits and bound<g ref="char:EOLhyphen"/>aries, was a lawful power amongſt us, and ordained of God, and is ſo where ever it is lawfully exerciſed. Kings are lawful powers, but not excluſively: The Kings of <hi>England</hi> were ſo, the States of <hi>Holland</hi> are ſo, ſo are the Emperors, Princes, and Cantons of <hi>Germany,</hi> the Senate and Capi of <hi>Venice,</hi> the great Dukes of <hi>Muſcovy,</hi> the Vaivods of <hi>Tran<g ref="char:EOLhyphen"/>ſilvania,</hi> and the Parliaments of <hi>England.</hi>
+            </p>
+            <p n="2">2. Why that Government is laid aſide, the Parliament hath given moſt unbyaſſed men very good ſatisfaction, both for the equity and neceſſity of it, in their Declaration of <hi>March</hi> 17. 1648. publiſhed in ſeveral Languages, unto which we refer the Objectors.</p>
+            <p n="3">3. The King was rejected upon the matter of his Charge;<note place="margin">See the Kings Caſe.</note> reſiſted becauſe of his illegal commands and uſurpations upon Liberties, and<note n="*" place="margin">If a Villain work on Sun<g ref="char:EOLhyphen"/>day by his Lords com<g ref="char:EOLhyphen"/>mand, he ſhall be free. Sir <hi>H. Spillman, Concil.</hi>
+               </note> Conſciences: Neither was the King (though a lawful power) the ſole power amongſt us, no, nor the Soveraign power neither, if Mr. <hi>Prynne</hi> be not miſtaken (who intitles ſeveral Volumns of his, <hi>The Soveraign Power of Parliaments and Kingdoms,</hi>) and that learned <hi>Scotchman</hi> in his <hi>Lex, Rex,</hi> (oppoſed to all Prerogative and Royal Advocates) overthrowing and exauctorating the Pleas of <hi>Maxwel, Barclay, Grotius, Spalatenſis,</hi> the Doctors of <hi>Aberdeen,</hi> Dr. <hi>Fern, E. Simmons, &amp;c.</hi> tending to aſſert the Royal Prerogative of Chriſtian Kings.</p>
+            <p>We conceive all powers, as to their form, are lawful, yet all change<g ref="char:EOLhyphen"/>able. The Royal Scepter was lawful, though not everlaſting; the laying it aſide, ſpeaks not its abſolute illegality, but its temporal inexpediency. And we wiſh that Parliaments in their preſent Conſtitution, may not be ſo long liv'd, as the <hi>Norman</hi> Scepter, if they be leſs expedient; we judg them both lawful powers, but neither irreſiſtible, nor unchange<g ref="char:EOLhyphen"/>able.</p>
+            <p n="4">4. The Lord by his Providence hath largely commented upon thoſe Texts, which confirm the lawfulneſs of our powers in Being, yea, their very conſtitution as from him.<note place="margin">
+                  <hi>Grotius</hi> of the truth of Chriſtian Re<g ref="char:EOLhyphen"/>ligion, <hi>l.</hi> 1. <hi>ſect.</hi> 11.</note> 
+               <q>Where it pleaſeth God to change the form of Government; thoſe men whom he uſeth as inſtruments for the effecting of that matter, as being determined for him: Suppoſe they be like to <hi>Cyrus, Alexander,</hi> or <hi>Caeſar</hi> the Dictator, to them all things, even thoſe which are above the reach of mans prudence, do ſucceed more beyond their deſires and wiſhes, then the diverſity of
+<pb n="10" facs="tcp:165520:6"/>
+humane caſualties ordinarily doth permit, <hi>&amp;c.</hi>
+               </q> They are the words of <hi>H. Grotius,</hi> a man not very Orthodox touching Magiſtracy neither, and remarkable under this head, by all thoſe who have taken notice of the gracious conduct of Providence towards, and the Lords preſence with thoſe who have been inſtruments in his hands, for effecting this change of Government amongſt us: And truly, he that conſiders the works done in our days, pondering them well, and yet confeſſeth not <hi>Digitum Dei, hîc &amp; hîc,</hi> the Arm of the Almighty made bare for us, we cannot but think he is more deeply baptized into the ſpirit of Atheiſm, then the <hi>Egyptian</hi> ſorcerers which withſtood <hi>Moſes,</hi> were, <hi>Exod.</hi> 8.19. If the fall<g ref="char:EOLhyphen"/>ing of a Sparrow to the ground, though worth but half a farthing, hath ſomething of providence in it, much more, thoſe wonderful appearings of God antecedent, concomitant, and ſubſequent to our change of Go<g ref="char:EOLhyphen"/>vernment.<note place="margin">Pſal. 97.5.</note> Have not <hi>the hills melted like wax at the preſence of the Lord, at the preſence of the Lord of the whole Earth.</hi>
+               <note place="margin">See the Lord Generals Let<g ref="char:EOLhyphen"/>ter from <hi>Ire<g ref="char:EOLhyphen"/>land. Decemb.</hi> 1649. Iſai. 26.11.</note> God will ſurely curſe that man and his houſe, who ſaith it was an arm of fleſh that did what was done in <hi>England,</hi> as making way for this change, or what hath been done in <hi>Ireland</hi> ſince. Thoſe who will not ſee when the Lords hand is lifted up, <hi>they ſhall ſee, and be aſhamed, &amp;c.</hi> The Almighties ſmoothing that rough<g ref="char:EOLhyphen"/>neſs, and becalming thoſe tumultuous ragings of peoples ſpirits, by the greatneſs of his arm,<note place="margin">Exod. 15 16.</note> making them as ſtill as a ſtone, juſt upon this change. His breaking their powerful conſpiracies, and diſſipating thoſe numerous bodies (ſpirited with influence from the Royal Head) before this change, and his preventing thoſe hideous confuſions, and garments rolling in blood, which by the Catholike out cry of the vulgar, and the ominous preſages of ſome graver heads, threatned to attend this change. All theſe ioyntly pondered (together with his uninterrupted goodneſs to<g ref="char:EOLhyphen"/>wards us ever ſince) make up an evidence of Gods ſignal owning that power in Being over us, which is the product of theſe wonders. If Pro<g ref="char:EOLhyphen"/>vidence can ſpeak any thing of his minde, or ever did in any age of the world:<note place="margin">Pſalm 19.2.</note> If the Lords workings be not dumb ſhews; if there be any language in them, it is that of <hi>Shemaiah,</hi> to all that would lift up them<g ref="char:EOLhyphen"/>ſelves againſt our preſent Authority,<note place="margin">1 Kings 12.24.</note> 
+               <hi>Return every man to his houſe, for this thing is from the Lord;</hi> not from him onely as an overſeer of things doing, and an orderer of things done for his glory, but as an efficatious worker in producing this very change, according as he uſeth to ſhew himſelf in all thoſe events, and thoſe onely which are of ſpecial com<g ref="char:EOLhyphen"/>placency to him.<note place="margin">Iſaiah 23.9.</note> 
+               <hi>The Lord of hoſts hath purpoſed to ſtain the pride of all glory, and to bring into contempt all the honorable of the Earth:</hi> Surely, this word is come to the birth (we beleeve, and therefore we ſpeak.)
+<pb n="11" facs="tcp:165520:6"/>
+The anointed of the Lord will certainly make Monarchy and Monarchs,<note place="margin">Pſalm 2.9, <hi>&amp;c.</hi>
+               </note> the preſent pride and glory of many Nations, as infamous as ever they have been famous. If Kings be not wiſe; if they ſerve him not with fear; if they ſet themſelves againſt the Lord,<note place="margin">Apoc. 21.24.</note> and comply not with his intereſt in the world; if they bring not their glory and honor to the New <hi>Jeru<g ref="char:EOLhyphen"/>ſalem;</hi> he will pour ſhameful ſpuing upon their glory, yea, though they bear themſelves up in their port and pride,<note place="margin">Iſaiah 60.15.</note> as <hi>Behemoth</hi> in the waters of <hi>Jordan;</hi> he will daſh their Scepters in pieces like a potters veſſel, and make them bow to the ſoles of their feet, whom he hath promiſed to make an eternal Excellency, even the Saints of the moſt high God,<note place="margin">Dan. 7.28. Heb. 12.28.</note> who ſhall receive a Kingdom which cannot be ſhaken. The zeal of the Lord of hoſts will perform this.</p>
+            <p>Having thus cleered our firſt Argument, as the main foundation upon which we build our obedience, being of moſt powerful and direct influ<g ref="char:EOLhyphen"/>ence upon our conſciences. From this holding Plea, we paſs to a ſecond Argument.</p>
+            <p>
+               <hi>The mutual relation of Protection and Allegiance (every benefit re<g ref="char:EOLhyphen"/>quiring <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>2</label> ſome duty) preſſeth us to a cheerful owning the Parliament, and to a re-alliance with them, as our actual Protectors in ſubſcribing to be true and faithful, &amp;c.</hi>
+            </p>
+            <p>This Argument is hinted in the Act for Subſcription,<note place="margin">
+                  <hi>Act. Jan.</hi> 2. 1649.</note> and not without ſpecial reaſon, conſidering how ready men are to forget themſelves, and to trip up the heels of ſuch as ſupport them. We need not labor in ſpe<g ref="char:EOLhyphen"/>cifying or aggravating the benefits of Protection, they being of ſo ob<g ref="char:EOLhyphen"/>vious a ſenſe to all, who prize Religion, Life, Liberty, or Property: And we underſtand not what duties anſwer the nature, and claim of ſuch benefits. If a thankful owning of thoſe perſons and powers, through whoſe hands they are diſpenced to us, and a cheerful ſubmiſſion to them be denied. If we give not that which God requires, will our offering be accepted? and wherewith ſhall we make an atonement for our ingra<g ref="char:EOLhyphen"/>titude?</p>
+            <p>
+               <hi>Here again many interpoſe, as not willing to be thought undutiful; we <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>1</label> can cheerfully ſubmit to the Authority, ſay they, And that out of Conſci<g ref="char:EOLhyphen"/>ence in things lawful, but to acknowledg and approve of them as lawful powers, we cannot.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> There may be wiſdom (which we ſee not) or rather policy in this;
+<pb n="12" facs="tcp:165520:7"/>
+but to our ſenſe, the objectors ſeem rather nice then wiſe. We never knew how to divide the hair, or diſtinguiſh betwixt a conſcientious ſubjection to any powers over us, and an owning them, as full and lawful powers ordained of God. Conſcientious ſubmiſſion conſignifies a conſcientious owning the powers, and preſumes or implies their lawfulneſs; other<g ref="char:EOLhyphen"/>wiſe Conſcience would not interpoſe ſo far: All the tribute of duty which Conſcience exacts, being paid as to God, will be ill performed, if we pay them in to a wrong hand. The caſe indeed is changed, when a man ſubmits upon another account then Conſcience, as from Policy, Fear, <hi>&amp;c.</hi> But Conſcientious obedience hath no ſuch flaw in it, as a mental reſervation of ſo ſtrange and implicatory a purport as this, I obey out of Conſcience, and yet I judg the powers ſo unlawful, as that their commands have no influence upon my Conſcience at all.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label>
+               <hi>Others ſay, Their ſelf-ſeeking and oppreſſion make us we cannot own them ſo heartily, as otherwiſe we might.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 1. Many cry out againſt ſelf-ſeeking, who love themſelves and their intereſts, as impatiently as any Member of the Councel of State what<g ref="char:EOLhyphen"/>ſoever, can do his; and thouſands amongſts us make a noiſe about op<g ref="char:EOLhyphen"/>preſſion, who pay them not a groat a quarter; yea, our <hi>quondam</hi> Publi<g ref="char:EOLhyphen"/>cans exclaim heavily, Burdens! Burdens!</p>
+            <q>Dic mihi ſi fueris tu leo, qualis eris?</q>
+            <p>
+               <note place="margin">Deut. 32.6.</note>But, <hi>Do ye thus requite the Lord, O fooliſh people and unwiſe?</hi>
+            </p>
+            <p n="2">2. Thoſe men rather ſought themſelves, who ſought the Kings favor, and tackt about to his intereſt, who would plead his cauſe rather then not kiſs his hand; as that man who bluſhed not to aver, That the Kings Conceſſions were the largeſt, the ſafeſt, and the beneficialleſt, that ever were granted by any King to his Subjects ſince the Creation. Did they ſeek themſelves, who to the apparent jeopardy of them and their poſte<g ref="char:EOLhyphen"/>rities, durſt take ſuch a Lion by the beard as they did? Neither have they yet divided his inheritance by line amongſt them, nor voted an everlaſt<g ref="char:EOLhyphen"/>ing Parliament (as many <hi>ad invidiam,</hi> ſuggeſt) to make their houſes great, or themſelves Princes over us. But to proceed.</p>
+            <p>We ſhall mention but one Argument more, <hi>viz.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum. </seg>3</label>
+               <hi>We know not how to approve our hearts before God, if we ſhould put our ſelves out of a capacity of ſerving his Providence, while he offers us oppor<g ref="char:EOLhyphen"/>tunity thereunto, as we ſhould do by refuſing this Engagement. Now every man almoſt cries out,</hi>
+               <note place="margin">Iſai. 3.6, 7.</note> 
+               <hi>Let me not meddle, make me not a ruler to this peo<g ref="char:EOLhyphen"/>ple,
+<pb n="13" facs="tcp:165520:7"/>
+let not this breach be under my hand. We think it moſt ſeaſonable ſtand<g ref="char:EOLhyphen"/>ing up in the gap (as our callings may require) and offering our ſervices to the God of our lives and comforts. This we have ſpoken to already, in the be<g ref="char:EOLhyphen"/>ginning of our Plea: And truly, we are much preſſed in our ſpirits, and cannot but wait upon the Lord, going forwards while he leads us. When</hi> Iſrael <hi>ſate ſtill, they were ever hankering after</hi> Egypt, <hi>therefore ſaid the Lord ſometime unto</hi> Moſes, Speak to the people that they go forward. <hi>And that which many call Back-ſliding, we doubt not to take for Progreſſion. If God leads a people beyond their</hi> non-ultra, <hi>or the limits of their own pre<g ref="char:EOLhyphen"/>fixt thoughts, or expectations, they uſually grutch him their company.</hi> Iſrael <hi>would go willingly out of</hi> Egypt, <hi>the place of their bondage; but when they met with any ſtaggering difficulties, or amuzing providences in their jour<g ref="char:EOLhyphen"/>neys, they fell to chiding with God, and would needs be returning to their old task-maſters ſervice again. It is a true ſaying,</hi>
+               <note place="margin">Multi ad per<g ref="char:EOLhyphen"/>fectionem per<g ref="char:EOLhyphen"/>venirent, niſi jam ſe perve<g ref="char:EOLhyphen"/>niſſe credorent. <hi>Fab.</hi>
+               </note> 
+               <q>Many men might have attained perfection; but for their too early dreams, that they were already perfect.</q> 
+               <hi>Thoſe (and they not a few) who made it their ultimate end, To eſtabliſh the Kings Throne in Righteouſneſs, proclaiming and declaring this, together with their loyalty, to the world, as their prime ſcope, when they were convinced that the Lord would not have it ſo, ſit down as ſullen as the Prophet, when God would not verifie his Declaration concerning</hi> Nineveh:<note place="margin">Jon. 4.</note> 
+               <hi>But becauſe we cannot do this thing, ſhall we therefore do nothing? We fear this Plea will not be accepted before God: That which we conceive good, is not done; therefore we have laid ourſelves aſide, and refuſed to do any thing for his ſervice, in order to the Publike Good. We never heard of any ſuch perſwaſion coming from the Lord that called you.</hi>
+               <note place="margin">Gal. 5.8.</note>
+            </p>
+            <p>To this we hear men ſay, They lay not themſelves aſide, but the Parlia<g ref="char:EOLhyphen"/>ment doth it, by urging upon them an Engagement (as the condition of their ſervice, and activity for the Publike Good) which they cannot <hi>ſalva conſcientiâ,</hi> ſubmit to, and that chiefly upon this ground, becauſe it pre<g ref="char:EOLhyphen"/>ſumes their conſent to the change of Government, and an approbation of thoſe things which have been done in order to it.</p>
+            <p>But, under favor, we conceive this conſequence is not of neceſſary Connexion with the Antecedent, and therefore we may be ſo bold with it, as to deny it.</p>
+            <p n="1">1. We preſume that the Parliament and Army might do ſome things in order to this change, which themſelves hold onely juſtifiable upon the Plea of neceſſity, and not abſolutely to be approved: Some of the Parliaments Declarations, and of the Armies Papers witneſs this.</p>
+            <p n="3">
+               <pb n="14" facs="tcp:165520:8"/>3. Can thoſe who ſubmitted to the <hi>Norman</hi> yoke, be interpreted to ap<g ref="char:EOLhyphen"/>prove all that the Conqueror did in order to the vaſſalizing them, and bringing them to his own terms?<note place="margin">Hiſt. liber. Luſitaniae. li <hi>3.</hi> c. <hi>4.</hi>
+               </note> Can we think that the Dukes of <hi>Bragance</hi> who ſware Allegiance to the Spaniard (uſurping Lordſhip over him a<g ref="char:EOLhyphen"/>gainſt all the peoples conſent) did by that act approve what the King of Spain did in order to his ſubverſion? Surely no. Thus we think <hi>(mutatis mutandis)</hi> that our ſubſcribing to the preſent Authority, concludes nei<g ref="char:EOLhyphen"/>ther our approbation of what hath been done in order to the change of Government, no nor the change it ſelf: it tyes our hands indeed from ſubverting the eſtabliſhment in <hi>eſſe,</hi> and to be ſubject; and powers (in our thoughts) irregularly and diſorderly changed may be lawfully and conſcientiouſly ſubſcribed unto and owned as powers ordained of God.<note place="margin">Maſter <hi>Dury</hi> in his conſid. of the preſent engag.</note> It is the perſwaſion of a good Chriſtian, and one of no mean name, That it doth not belong to us to judg definitively of the Rights which the ſupream powers over us in the world pretend to have unto their places. And it is our perſwaſion, that neither Gods commands touching ſubjection, nor the Parliaments Acts for ſubſcription, puts the ſubmitting conſcience either upon the approbation or non-approbation of the e<g ref="char:EOLhyphen"/>quity or iniquity of this change of Government wrought amongſt, but onely upon the conſcientious acknowledging the powers over us in their preſent conſtitution, as the onely viſible Authority by the Ordinance of God. But</p>
+            <p n="3">3. Suppoſing the conſequence good, that ſubſcription drew with it a conſent to the change of Government, and an approbation of what was done in order to it, we conceive that both of theſe, without any injury offered to conſcience, may be approved; The Parliaments foremention<g ref="char:EOLhyphen"/>ed declaration renders the former approvable to us,<note place="margin">
+                  <hi>March</hi> 17, 1648.</note> and as to the main things done in order to this change, we ſhall ſpeak our thoughts in parti<g ref="char:EOLhyphen"/>cular. They appear to be theſe,</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The Parliaments declaring the Original of all lawful power to be in the people: in which (as we underſtand it) little elſe is declared then this, that forms of Government are humane ordinances, or creatures (according to that of the Apoſtle, 1 <hi>Pet.</hi> 2.13.) to exclude the claim to a ſacred and unalterable prerogative in any perſons or powers whatſo<g ref="char:EOLhyphen"/>ever; This we finde no great reaſon to boggle at.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly their laying aſide the Houſe of Lords, which in effect they had done ſeven yeers before, <hi>viz.</hi> in declaring to their Lordſhips, that if they refuſed to joyn with them in ſettling the Militia, the Commons would proceed to do it without them; that was then judged a ſafe and whol<g ref="char:EOLhyphen"/>ſome Reſolve: and why might it not take place now after all the experi<g ref="char:EOLhyphen"/>ences
+<pb n="15" facs="tcp:165520:8"/>
+had of delays and Negatives (in matters of higheſt moment) from the Lords, yea of their direct thwarting the common ſenſe of the King<g ref="char:EOLhyphen"/>dome in Parliament? <q>For it is unreaſonable to conceive,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Sect.</hi> 39.</note> that it ſhould be a matter of ſin, or unlawfull for a Kingdome to make proviſion for it ſelf and its own good, unleſs ſuch or ſuch a ſmall party amongſt them, who prefer their own undue perſonal intereſts before the publike intereſts and welfare of the Nation, ſhould conſent and joyn with them therein.</q> This put the Parliament upon a neceſſity of aboliſhng the Houſe of Lords, as may appear in their declaration <hi>March</hi> 17. 1648. And this we conceive need ſtick as little upon us.</p>
+            <p n="3">3. Their bringing the King to a tryal, ſentencing him, and taking him <milestone type="tcpmilestone" unit="unspecified" n="3"/> away from the midſt of us: If the King was a Delinquent and an im<g ref="char:EOLhyphen"/>placable one, <hi>fiat juſtitia, ruat calum.</hi> That the people have no right to judg him, though he was ſo, as it is our diſſenting neighbors Plea, ſo it was the Plea of that prerogative Secretary <hi>Lethington</hi> againſt <hi>Knox</hi> (a man Orthodox and conſcientious) <q>God (ſaith <hi>Knox</hi>) is the univerſal judg as well unto the King as to the people,<note place="margin">Hiſtory of the reformation of <hi>Scotland. lib</hi> 4.</note> ſo that what his word commands to be puniſhed in the one, is not to be abſolved in the other. We agree in that (ſaid <hi>Lethington</hi>) but the people may not execute Gods judgments, but muſt leave it unto himſelf, who will either puniſh it by death, by war, by impriſonment, or by ſome other kinde of his plagues. I know (ſaith <hi>Knox</hi>) the laſt part of the reaſon to be true; but for the firſt, that the people, yea or a part of the people, may not execute Gods judgments againſt their King, being an offendor, I am aſſured ye have no other warrant, except your own imaginations, and the opinion of ſuch as more fear to offend their Princes then God.</q> This we know, that God is no accepter of perſons, and that blood, upon whomſoever it lyes, cryeth ſo loud in the ears of the Almighty, that he has ſtrictly com<g ref="char:EOLhyphen"/>manded men to take no ſatisfaction for the life of any murtherer. Now,<note place="margin">Numb. 35 30, 31, 33.</note> what if we had no Law, rule, or preſident to go by for the puniſhing of Princes, in any civil Record, ſhall not juſtice therefore be done? muſt the law of God be enfeebled and fall to the ground for want of an hu<g ref="char:EOLhyphen"/>mane ordinance to back and enforce it? Judg, we pray you, may this be? but we are fearful of ſwelling our paper beyond the bulk of a brief Plea; this alſo, we conceive, may be approved by men honeſt and con<g ref="char:EOLhyphen"/>ſcientious.</p>
+            <p>But the great matter is yet behind, the grand queſtion or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is not what a people may do of this nature, being free from all bonds &amp; obliga<g ref="char:EOLhyphen"/>tions, but what they may do who lye under Covenants and Engagements to maintain ſuch and ſuch a Government, or ſuch and ſuch governors in
+<pb n="16" facs="tcp:165520:9"/>
+their power and Soveraignty? Here, ſay our diſſenting neighbors, the water ſticks, as to our preſent caſe; and in particular they cry out amain of the contrariety and utter inconſiſtency of the Covenant and Oath of Allegeance with this preſent Engagement; this leads us therefore to the ſecond thing propounded in the beginning of our Plea, <hi>viz.</hi> that we ſhould make anſwer to, and remove thoſe ſerious objections which way<g ref="char:EOLhyphen"/>lay many conſcientious men, ſo that the cannot come up to the ſubſcrip<g ref="char:EOLhyphen"/>tion.</p>
+            <p>We ſhall take leave here to lay down two or three preparatory Rules touching the obligatory power of Covenants in general, which may be-friend us in this our following eſſay, <hi>viz.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Rule, All Covenants binding unto ſin are <hi>ipſo facto,</hi> voyd, becauſe the matter of a Covenant (being an eſſential part of it) is <hi>res licita,</hi> and for want of that due matter any Covenant fals to pieces; as that vow which ties any man to a condition that is impoſſible ſignifies nothing, upon this this account,<note place="margin">Mark 6.23. Acts 23 14. 1 Sam. 25 22.</note> becauſe a man cannot keep it <hi>de facto;</hi> ſo that vow or Cove<g ref="char:EOLhyphen"/>nant by which one is put upon any thing unlawful, ſignifies as little, becauſe a man cannot performe it <hi>de jure.</hi> The ſin is in making ſuch Covenants, not in breaking them, a man overtaken with any ſuch Oaths, needs no abſolution, they fall aſunder of themſelves.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Rule, That Covenant may be lawfully entered into, which (the ſtate of things and perſons being changed) may not be kept without ſin. Put the caſe I have engaged my ſelf to this woman never to marry any other but her; after a while this woman fals diſtracted, miſcheifs all ſhe can come nigh, is fit for no place but <hi>Bedlam,</hi> where now ſhe lies bound in chains, and ſo is like to do while her dying day; but I muſt either marry or burn: am I now (notwithſtanding my engagement to her) free for another woman, or no? We conceive conſcience would give in its ver<g ref="char:EOLhyphen"/>dict, Yes.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Rule, When any men by a promiſſory Oath engage themſelves to ſome duty or performance for the benefit and advantage of another; if he (in whoſe behalf the promiſe is made) ſhall take away that foundati<g ref="char:EOLhyphen"/>on upon which the promiſe was built, the Covenantiers are become free, 1 <hi>King.</hi> 1.52. <hi>&amp;</hi> 2.23, 24 37, 38, 42, 43. there the caſe is cleared. Sup<g ref="char:EOLhyphen"/>poſe any people by covenant pay unto their Prince, as their publike ſhield or Protector, ſuch and ſuch Annual Subſidies. This Prince, regardleſs of his duty, is to the people as a wall broken down, he proſtitutes their ſafety to bruitiſh deſtroyers, their liberties to encroachments, their trade and goods to Piracies and Harraſings: They become ſenſible of the de<g ref="char:EOLhyphen"/>falcation of their properties, and the debauchment of the publike in<g ref="char:EOLhyphen"/>tereſt,
+<pb n="17" facs="tcp:165520:9"/>
+and deny him the encovenanted tribute; the Prince ſues them up<g ref="char:EOLhyphen"/>on an action of debt, and (though prerogative be the foreman of the Jury) the people are acquitted and juſtified.</p>
+            <p>What are Kings but vaſſals to the State? who if they turn tyrants,<note place="margin">
+                  <hi>Lex, Rex.</hi> p. 404. in An<g ref="char:EOLhyphen"/>ſwer to an Objection of <hi>Amiſaeus.</hi>
+               </note> fall from their Rights, Is Maſter <hi>Rutherfords</hi> queſtion in his diſpute for the juſt prerogative of King and people.</p>
+            <p>Theſe Rules we finde very uſeful for the deſcrupling, and diſob<g ref="char:EOLhyphen"/>liging our conſciences of thoſe ties in the objection, and being of very eaſie and obvious application, we ſhall paſs to more particular Salvo's.</p>
+            <p n="1">1. To the Covenant, and to that clauſe in it for preſerving the Kings <milestone type="tcpmilestone" unit="unspecified" n="1"/> perſon, we anſwer, it is conditional; and that article for bringing all De<g ref="char:EOLhyphen"/>linquents to condign puniſhment, is poſitive and abſolute: for if this li<g ref="char:EOLhyphen"/>mitation, in the preſervation of Religion, <hi>&amp;c.</hi> be not a condition, then either theſe two articles mentioned contradict one another (and ſo the Covenant ties us to impoſſibilities) or elſe the King was no Delinquent. If the former, then the Covenant, as to both thoſe articles is null. If the latter, why did the Aſſembly of the Church of <hi>Scotland,</hi> in a declaration ſent to the King, charge him with being guilty of ſhedding the blood of many thouſands of his beſt ſubjects? <q>Yea, why did their Commiſ<g ref="char:EOLhyphen"/>ſioners (concurring with the Houſes of Parliament,<note place="margin">See the Parl. Declarat. of <hi>March.</hi> 4. 1647.</note> in their anſwer of the thirteenth of <hi>January</hi> to the Kings letter of <hi>December</hi> 1645.) a<g ref="char:EOLhyphen"/>mongſt other things, make it their firſt and chief reaſon why they could not conſent to the Kings coming to <hi>London;</hi> and to a Perſonal Treaty deſired by Him, untill ſatisfaction and ſecurity were given to both his Kingdoms, becauſe ſo much blood of his good ſubjects had been ſhed in this war by his commands, and his Commiſſions.</q> Here we ſee the Parliament and <hi>Scotch</hi> Commiſſioners charging the King with deep Delinquency, how comes it to be expiated in 1048? Or ſhall we think it was a groundleſs charge? Is it fit to ſtrike Princes for equity? Nay, ſure we ſhould prejudg their wiſdome and integrity too much, in ſaying ſo; they tell us how he became guilty, <hi>viz.</hi> The blood being ſhed by his com<g ref="char:EOLhyphen"/>mands and Commiſſions, he ſhed it; for the Author is more guilty then the<note n="*" place="margin">Semper is di<g ref="char:EOLunhyphen"/>citur facere cui praemini<g ref="char:EOLhyphen"/>ſtratur. <hi>Tertul.</hi>
+               </note> 
+               <note n="*" place="margin">Opera magis pertinent ad imperantem, quam ad exe<g ref="char:EOLhyphen"/>qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntem.</note> Actor. The Prophet <hi>Nathan</hi> tels <hi>David</hi> that he ſhed the blood of <hi>
+                  <g ref="char:V">Ʋ</g>riah,</hi> 2 <hi>Sam.</hi> 12.9. though <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> was ſlain by the ſword of the chil<g ref="char:EOLhyphen"/>dren of <hi>Ammon,</hi> and not by <hi>Davids</hi> Commiſſion neither, but by his indirect procurement; but the Kings Commiſſions to kill, <hi>&amp;c.</hi> at the bar of juſtice abundantly teſtified his palpable guilt and Delinquency There<g ref="char:EOLhyphen"/>fore we conceive (to avoid a manifeſt contradiction in our ſolemn Co<g ref="char:EOLhyphen"/>venant) that clauſe muſt needs be acknowledged conditional, which
+<pb n="18" facs="tcp:165520:10"/>
+concerned the Kings perſon, (for as touching his power, the diſpute is not ſo hot, though by the Covenant the one be as ſacred as the other.) The<note n="*" place="margin">The reaſons of the preſent Judgment, <hi>&amp;c.</hi> p. 27.</note> 
+               <hi>Oxford</hi> Convocation ſaw this condition clearly enough from the <hi>Parliaments</hi> Declarations in anſwer to the <hi>Scottiſh</hi> Papers, and therefore were deterr d, as they ſay, from taking the Covenant; Nay, the<note n="a" place="margin">Royal Pour<g ref="char:EOLhyphen"/>traicture.</note> King himſelf (if men may believe it) upon the Covenant tells us, that the clauſe in the Covenant referring to his perſon was of a <hi>Dangerous limitation;</hi> how could that be, if the Covenant, according to the letter of it might not be kept, and yet the Kings perſon endangered? And ſurely if by any Covenant we had unwarily tied our ſelves to priviledg his perſon, ſo as thereby to overthrow the uſe or end of<note n="b" place="margin">See <hi>Junius Brut.</hi> p. 84.</note> Magiſtracy amongſt us, that Co<g ref="char:EOLhyphen"/>venant could not be binding, becauſe ſinful; God will have no man lift up above his<note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Naz. Orat. <hi>27.</hi>
+               </note> Ordinance, but this is done by ſetting up an unaccountable Magiſtrate, Covenanting to priviledg his perſon abſolutely, or without limitation, which muſt needs give him liberty to play<note n="d" place="margin">Quilibet impune facere, hoc ſcilicet re<g ref="char:EOLhyphen"/>gium eſt. <hi>Saluſt.</hi>
+               </note> 
+               <hi>Rex,</hi> and to make what God ordains for peoples good, to become a ſnare to them, and their chief endamagement; no ſuch diſcommode in the world, as a man that may do what his liſt, and his life notwithſtanding muſt be accounted the choiſeſt treaſon that can be; well then, if the Kings preſervation was conditional, we muſt leave it to the determination of thoſe who are cho<g ref="char:EOLhyphen"/>ſen to Judg and conclude what is conſiſtent with our liberties, and what not, whether the things mainly Covenanted for, or the condition could have been obtained and preſerved with the preſervation of this Kings perſon, yea, or no; if not, the caſe is<note n="e" place="margin">Enuntiatio hypothetica, ſi conditio ſit im<g ref="char:EOLhyphen"/>poſſibilis, aequi<g ref="char:EOLhyphen"/>valet negativae. <hi>Fr. Burgers. loq.</hi>
+               </note> clear; and truly we cannot but think as the <hi>Parliament</hi> and <hi>Kirk</hi> of <hi>Scotland</hi> thought, <hi>viz.</hi> That the Kings Conceſſions were unſatisfactory, yea, deſtructive to Religion, and the Nations ſafety, and that he ſhould be ever kept on treating (be<g ref="char:EOLhyphen"/>ing thereby ſet in ballance with the whole Nation, and) with the ad<g ref="char:EOLhyphen"/>vantage of creating everlaſting war and trouble, to the ruine of all honeſt people, eſpecially being a man guilty of moſt enormous crimes, and of an implacable ſpirit, we thought our Covenant never bound us to.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Whereas divers amongſt us will needs bring Monarchy within the compaſs of the Covenant, and conceive themſelves bound thereby to maintain Kingly Government (ſure 'tis a Gourd they are very fond of) we cannot ſee how they can poſſibly hedge this in, there being no menti<g ref="char:EOLhyphen"/>on made of Kingly Government, or the Kings poſterity at all in it; his juſt Rights, and power there ſpoken of and Covenanted for, were his per<g ref="char:EOLhyphen"/>ſonal Rights and Power, as may appear by the laſt Clauſe of that Ar<g ref="char:EOLhyphen"/>ticle; We have no thoughts of diminiſhing his Majeſties juſt power and greatneſs: all which was to ſtand or fall with performance, or non-per<g ref="char:EOLhyphen"/>formance
+<pb n="19" facs="tcp:165520:10"/>
+of that grand condition in the Preſervation of, <hi>&amp;c.</hi> touching this condition the <hi>Scots</hi> ſpeak very well (though in the extent of the Co<g ref="char:EOLhyphen"/>venant we conceive them miſtaken) in their Declaration of <hi>Auguſt</hi> laſt, containing the grounds why they could not admit the late Kings Son to the exerciſe of Royal Power over them. <q>The duty of defending and pre<g ref="char:EOLhyphen"/>ſerving the Kings Majeſties Perſon and Authority (ſay they) is joyned with, and ſubordinate unto the duty of preſerving and defending the true Religion and Liberties of the Kingdoms, and therefore his Ma<g ref="char:EOLhyphen"/>jeſty ſtanding in oppoſition to the juſt and neceſſary publike deſires con<g ref="char:EOLhyphen"/>cerning Religion and Liberties, it were a manifeſt breach of Cove<g ref="char:EOLhyphen"/>nant, and a preferring of the Kings Intereſt to the Intereſt of Jeſus Chriſt, to bring him to the exerciſe of his Royal Power, which he walking in a contrary way, and being compaſſed about with Malig<g ref="char:EOLhyphen"/>nant Counſels, cannot but employ to the prejudice and ruine of both.</q>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>But the Declaration of the Houſes of April,</hi> 1646. <hi>and other Declarati<g ref="char:EOLhyphen"/>ons abundantly cleer the extent of the Covenant to Kingly Government, and bear witneſs to their meaning in it.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 1. We conceive not our ſelves bound by the Covenant to maintain any thing beſides the letter of it, and the moſt obvious ſenſe; 'tis wholly beſide the purpoſe and unreaſonable to faſten any poſtnate or occaſional Declarations upon mens conſciences in this caſe, ſince what the Parlia<g ref="char:EOLhyphen"/>ment did without, or beſide the Covenant, neither reacheth us, nor comes within our compaſs to ſcan or paſs verdict on, the Covenant pointing or referring us to no ſuch conſiderations.</p>
+            <p n="2">2. The ſame unalterable tenor of politick adminiſtrations cannot ſuit the various exigency of a Nations Affairs; what the Parliament there<g ref="char:EOLhyphen"/>fore declared at one time,<note place="margin">Declaration of <hi>March</hi> 17. 1648. p. 21. <hi>Ames: de Conſc. l.</hi> 5. <hi>c.</hi> 25. <hi>Ibidem.</hi>
+               </note> they might ſee neceſſary cauſe for altering at another, and did, as appears by that Declaration, where Anſwer is made to this preſent Objection; the Intention or Obligation of a Law or a Promiſe, ought not to be extended beyond the reaſon or foundation of it, ſo that the Reaſon or ground ceaſing, the Obligation muſt needs ceaſe too, as it doth likewiſe upon this account, <hi>viz.</hi> if the ſtate of things and perſons be ſo changed, as that in the judgment of wiſe men, thoſe who promiſed or declared ought, cannot be thought to have willed the including ſuch or ſuch an event in the promiſe: Now this event in the <hi>Parliaments</hi> Caſe was the Kings implacability and inexorableneſs, after ſeven addreſſes made unto him, and the ſtrong inclinations of the
+<pb n="20" facs="tcp:165520:11"/>
+Houſe of Lords to his beloved Intereſt, neither of which events the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> can be judged to have included in their former Declarations, <hi>viz.</hi> that they ſhould reſolve thereby, and declare to maintain the Govern<g ref="char:EOLhyphen"/>ment in that manner, let the King or Lords do what they pleaſed, or carry themſelves as they liſted.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. And laſtly, as to thoſe breaches of <hi>Parliament Priviledges,</hi> (which we Covenanted to preſerve) by forcing the Houſe, excluding the mem<g ref="char:EOLhyphen"/>bers, <hi>&amp;c</hi> we have this to ſay.</p>
+            <p n="1">1. This Engagement concludes not our approbation, nor wraps us up in the guilt of any miſcariages infringing the Covenant, if any ſuch were committed, neither doth our Covenant binde us to any things impoſſible, whatſoever irregularity have been charged upon the Army (of this kinde) in our places and callings we could neither prevent nor can remedy.</p>
+            <p n="2">
+               <note place="margin">See that De<g ref="char:EOLhyphen"/>claration, <hi>Feb.</hi> 17. 1648. <hi>Page</hi> 12, 13.</note>2. We hear of no Covenantiers in <hi>Scotland,</hi> who ſcruple their ſub<g ref="char:EOLhyphen"/>mitting to that power in Being over them, nor their owning it, though thoſe who now govern affairs there, were brought in by a greater force then ever our Parliament groaned under; another Parliament being there called, while the former was by adjournment continued. And the im<g ref="char:EOLhyphen"/>priſoning ſome of our Parliament Members, is alleadged by the Army to be (amongſt other things) for Confederacies and Correſpondencies with that party in <hi>Scotland,</hi> which our Brethren there found themſelves neceſ<g ref="char:EOLhyphen"/>ſitated to trample under foot; yet no man ſaith unto them, why do you ſo? This makes us think that Parliament-priviledges may be ſometimes looked at, as Formalities, rather then ſacred and indiſpenſable Rights, <hi>viz.</hi> When the greater number of Parliament men ſet themſelves in a way of utter ruining, rather then of building up and eſtabliſhing a Na<g ref="char:EOLhyphen"/>tion on the ſure Foundations of Peace and Righteouſneſs.</p>
+            <p>Thus we leave what hath been ſaid to the Conſciences of thoſe men who ſet the Covenant as a partition wall betwixt themſelves and the Engagement: We come now to the oath of Allegeance, and ſhall draw out our ſenſe touching that, as briefly as may be.</p>
+            <p n="1">1. The ground of that Oath we conceive to be our actuall protection, and not meerly the Kings obligation to protect us (as ſome would have it) for miſerable is that people like to be,<note place="margin">See the <hi>Oxford</hi> Reaſons, <hi>&amp;c.</hi> Rom. 13.4.</note> whoſe welfare is no otherwiſe provided for then thus; Kings having got a knack to diſoblige them<g ref="char:EOLhyphen"/>ſelves of their duty towards their ſubjects when they liſt. Men do not ſwear Allegeance to Magiſtrates, as dropping from heaven over them (like poor Earthlings, created meerly to bear up their trains) but as Miniſters ordained and choſen for their ſervice and good. We ever thought, that the Stipulations betwixt a Prince and people were<note n="*" place="margin">Junius Bru<g ref="char:EOLhyphen"/>tus, p. <hi>97,</hi> &amp;c. Ames. Med. de Jurament. &amp; de Conſc. l. <hi>4.</hi> c. <hi>2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> mutu<g ref="char:EOLhyphen"/>al,
+<pb n="21" facs="tcp:165520:11"/>
+and always held it a ſafe rule, That if he who promiſeth mutually, will not perform what he promiſeth, our Obligation is not binding. But how well the late King performed his part, we ſhall have reaſon to remem<g ref="char:EOLhyphen"/>ber. Again, the formal Cauſe of a promiſſory Oath ceaſing, the Obli<g ref="char:EOLhyphen"/>gation it ſelf ceaſeth; but the formal Cauſe (as we ſaid) of Allegeance, a Protection: This needs no proof, the Arguments againſt it being <hi>non</hi>-ſuited over and over in the Court of Reaſon and Truth; therefore, we conceive our ſelves looſed from Allegeance according to that Oath, its correlate and foundation being taken away. Thus the <hi>Portugals</hi> plead in our caſe. The Kings of <hi>Caſtile,</hi> ſay they,<note place="margin">Hiſtor. Liberat. Lucit. l. <hi>2.</hi>
+               </note> Though admitted the Kings of <hi>Portugal,</hi> yet may be rejected.</p>
+            <p n="1">1. Becauſe they have not kept thoſe Covenants which they were ſworn to, at their entrance on the Crown, <hi>cap.</hi> 3.</p>
+            <p n="2">2. By reaſon of their male-adminiſtration of Government, to the deſtruction of the Common-wealth, without hope of remedy, <hi>cap.</hi> 4.</p>
+            <p n="3">3. By reaſon of their tyranny, <hi>cap.</hi> 5.</p>
+            <p n="4">4. By the Law of nature, which enables a people to defend themſelves againſt all ſuch as ſeek their ruine and extinction, <hi>cap.</hi> 7.</p>
+            <p n="5">5. Neither did they conceive their Oath of Allegeance hindered this.<note place="margin">Praeclaro faci<g ref="char:EOLhyphen"/>nori non obſti<g ref="char:EOLhyphen"/>tit juramentum praeſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itum regi Caſtellano, l. <hi>3.</hi> c. <hi>4.</hi>
+               </note> Did we not cut our own throats? and were we not acceſſory to our own undoing, if by the ſervile abaſing our ſelves to a tyrants will, we ſhould give him the advantage of ruining us? This were a palpable yielding up that which moſt Kings reach out their hands for, Even that we are made for them, and not they for us, and for our good.</p>
+            <p n="2">2. When we ſwear homage and obedience to our Lord and Superior, who afterwards ceaſeth to be our Lord and Superior, the<note n="*" place="margin">Quum au<g ref="char:EOLhyphen"/>fertur ratio formalis jura<g ref="char:EOLhyphen"/>menti juramen<g ref="char:EOLhyphen"/>tum ceſſat ra<g ref="char:EOLhyphen"/>tione even<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us, qui caſus eſt eorum qui ju<g ref="char:EOLhyphen"/>rarunt ſe obe<g ref="char:EOLhyphen"/>dituros Domi<g ref="char:EOLhyphen"/>no aut Principi alicui, qui poſtea ceſſat eſſe talis. <hi>Am<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> de Conſc. l 4. c. 22.</hi>
+               </note> Obligation ceaſeth. This Rule <hi>Henderſon</hi> makes uſe of in his firſt Paper to the King at <hi>Newcaſtle,</hi> and will be irrefragable by all the Reaſon in the world. Can this Oath therefore binde us, now our Superior is not? (However taken away, by might or right, <hi>cavent actor.</hi>) Well, but we hear many ſay, The King cannot die; it is to be ſuppoſed, they mean it of a death in Law, not a natural death; and then, being our Law is called the Soul of Reaſon, it would be known, what Reaſon can be given of that maxime? Surely, a King dethroned, is dead in Law; and this may perſwade plain men to queſtion the univerſal, and holding verity of it. If he may die as King, we doubt not but his perſon may die; but a King laid aſide, or dead, dies as King, otherwiſe there could be no ſuch thing as an <hi>Inter<g ref="char:EOLhyphen"/>regnum,</hi> of which we read frequently in all Chronicles. Again we ever thought, that a Kings Coronation was his actual inveſtiture with
+<pb n="22" facs="tcp:165520:12"/>
+Power, or his Conſtitution as King; and ſure it will be accepted, and excuſe us; if when we hear of any ſuch King amongſt us, we grutch him not our Allegeance; if we ſwear Homage to the Kings Succeſſors, they muſt either ſucceed him before we can perform it, or elſe our Oath ties us to his Children, or Heirs while he lives, as well and fully, as when he is dead. If any of the late Kings Children do <hi>de facto</hi> ſucceed him, as King, or Heir, his Power, we ſhall be their Liege people; but for a Suc<g ref="char:EOLhyphen"/>ceſſion <hi>de jure,</hi> as we are made no judges of any ſuch thing, ſo we know not what it means: We ſwear Allegeance not to Kingly power, as we con<g ref="char:EOLhyphen"/>ceive, but to our Royal Protectors, and he that is not actually our Liege Lord, we cannot be termed his Liege Subjects; for Relations ſtand and fall together. We know little of the myſteries in Law, for the greateſt part of us; neither do we conceive it neceſſary (for the approving our hearts unto God) that we apply our ſelves to the ſearch of them. If there be any thing hid in the Laws which prejudiceth our Rights and Juſt Liberty, as this Maxime, That the King cannot die (according as it uſeth to be urged) ſeems to do; we ſhall thank the Parliament for call<g ref="char:EOLhyphen"/>ing us to ſubſcribe, if our ſubſcription may work its abolition. But if men, when they ſay, The King cannot die, mean this, <hi>viz.</hi> That that Legiſlative, or Executive Power, Fundamental to a Nations Being, can<g ref="char:EOLhyphen"/>not die; we are ready to kiſs their lips, and grant it true. Thus that power which the <hi>Spaniard</hi> had by Law in the <hi>Netherlands,</hi> ſtill lives in the States of thoſe United Provinces, though he be rejected; and thus the <hi>Kings</hi> power lives in our preſent <hi>Parliament,</hi> elſe we were all but dead men.</p>
+            <p>Having thus cleared our grounds for ſubſcription, and ſhewed its con<g ref="char:EOLhyphen"/>ſiſtencie with thoſe ſacred ties which fall not aſunder of themſelves. We ſhall conclude with a requeſt to our diſſenting neighbors, that they would not confidently, or magiſterially ſleight what is capable of their ſerious conſideration in this our plea, Men that ſtudy an impartial ſearch of truth and conſcientious ſatisfaction in the crowd of different perſwa<g ref="char:EOLhyphen"/>ſions, muſt not be reſolved to maintain any<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Non eſt pudor ad meliora tranſire. <hi>Am<g ref="char:EOLhyphen"/>broſ.</hi>
+               </note> Hypotheſis of their own, however their underſtandings have been educated. He that gratifies his affection at ſo high a rate, as to make it umpire in any conteſt, cheapens the Jewel of truth ſo faintly, as if he intended not to buy it, and baſely proſtitutes the ſoveraignty of his Judgment. We cannot weigh things by affection and reaſon too, divers weights are an abomination to the Lord,<note place="margin">Prov. 20.23.</note> and a falſe ballance is not good; a few grains of affection will overpoize many drams of reaſon, and we are all apt to overween our ha<g ref="char:EOLhyphen"/>bituated
+<pb n="23" facs="tcp:165520:12"/>
+perſwaſions, and to ſet them up as the firſt, ſecond, and third ar<g ref="char:EOLhyphen"/>gument againſt contrariety in Judgment to us, however bottomed, we are apt to think them, yea, and call them impregnable, and invincible; as <hi>Montanus,</hi> overvaluing his two poor pariſhes in <hi>Aſia,</hi>
+               <note place="margin">Euſeb. Eccleſ. hiſt. li. <hi>5.</hi>
+               </note> 
+               <hi>Pepuſa</hi> and <hi>Ty<g ref="char:EOLhyphen"/>mium,</hi> called them <hi>Jeruſalem.</hi> Hence commonly ariſeth that confidence, which makes men dictators rather then diſputers, and is no competent teſtimony of truth, being but like a wager, which according to the pro<g ref="char:EOLhyphen"/>verb, Is a fools argument. Two Franciſcan Fryars would needs be burnt at a ſtake, to prove <hi>Savanarola</hi> an Heretick;<note place="margin">Phil. de Comm. li. <hi>8.</hi>
+               </note> and a Jacobine Fryar offers himſelf to the flames, to prove he was no Heretick: yet theſe premiſes were not demonſtrative; or of power to eſpouſe the judgment of any impartiall ſeeker to the concluſion they inferred. <hi>Savanarola</hi> might hold the truth notwithſtanding that argument the Franciſcans brought againſt him; and an error notwithſtanding the Jacobines confidence, <hi>videtur quod ſic,</hi> and <hi>videtur quod non ſic,</hi> had better becomed them both. Truly this is the temper of many diſſenters amongſt us, as to the engagement, they will ſeem rather to offer themſelves to an outlary, baniſhment, im<g ref="char:EOLhyphen"/>priſonment, and what not (out of prepoſſeſſion and prejudice) then ſhew any face of reaſon at all to prove the unlawfulneſs of ſubſcribing to the preſent Authority. Others that have their conſcientious reaſons are as ſhie of propounding them, as if thoſe who differ from them were not men to be argued with, as denying ſome common principle, that carries its evidence in it ſelf. It is not here<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Athan.</note> undertaken, but eſſay'd, to per<g ref="char:EOLhyphen"/>ſwade their conſciences; and briefly to lay down ſome of thoſe grounds on which our engagement with the Parliament out of conſcience is built, that it may not be preſumed or concluded (as commonly it uſeth to be) that there is little conſcience in any, ſaving in thoſe who put themſelves on the ſuffering ſide.</p>
+            <p>We ſhall not apologize much in the behalf of this our Plea, onely thus, we live far from the ſcene of action and information, and have little ac<g ref="char:EOLhyphen"/>quaintance with great mens ſpirits and tempers (being of the ſmaller peo<g ref="char:EOLhyphen"/>ple) we know not how this controverſie is dignoſc't and ſcand, or what <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hapes it puts on amongſt thoſe larger heads, and men of greatned expe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iences, by reaſon of their higher callings, relations, and imployments, who <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>appily (as 'tis ſaid of <hi>Berengarius</hi>) may know all things knowable: we have ſearch't onely to finde out duties, and muſt be excuſed (as igno<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant of their ſeveral Pleas) if we touch not upon all mens <hi>gravamina,</hi> or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe ſcruples which make them contrary in perſwaſion and action to us. Yea, if ſometimes we ſtrike unwittingly beſides the nail, if we be leſs ex<g ref="char:EOLhyphen"/>act
+<pb n="24" facs="tcp:165520:13"/>
+or full in our Salvo's then the nature of ſuch a buſineſs may require. Yea, if happily we miſtake in any thing of moment, we ſpeak but our own ſenſe, which at ſo great a diſtance, from <hi>Authentique</hi> informers, may be eaſily deceived. <hi>Sed non pigebit nos ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oubi haeſitamus, quaerere; nec pude<g ref="char:EOLhyphen"/>bit nos ſicubi erramus n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> corrigare.</hi> Auguſt. De Trinit. Li. 1. cap. 1.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
